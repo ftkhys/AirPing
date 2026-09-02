@@ -1,6 +1,6 @@
 # AirPing
 
-#### Video Demo: <YOUTUBE VIDEO URL>
+#### Video Demo: https://youtu.be/gF2LcoCMLvU?si=VFDmyuJewMqxvbeT
 
 #### Description:
 
